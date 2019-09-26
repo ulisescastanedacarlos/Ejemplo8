@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejemplo</string>
+    <string name="Nombre">ULISES CASTAÑEDA CARLOS</string>
+    <string name="MATRICULA">167010040</string>
+    <string name="CARRERA">ITIC´S</string>
+    <string name="GRUPO">7T11</string>
+    <string name="MATERIA">APLICACIONES MOVILES</string>
+    <string name="PROFESOR">VICTOR HUGO DE LA 0 MARTINEZ</string>
+</resources>
